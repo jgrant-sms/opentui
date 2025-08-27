@@ -1,4 +1,4 @@
-name: Build
+name: Testing Odd GitHub Behavior
 
 on:
   pull_request:
