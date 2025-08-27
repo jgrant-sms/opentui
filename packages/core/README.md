@@ -42,4 +42,4 @@ const obj = new TextRenderable("my-obj", { content: "Hello, world!" })
 renderer.root.add(obj)
 ```
 
-Test
+Test with a non-dependency change.
